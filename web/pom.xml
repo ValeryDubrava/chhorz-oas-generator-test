@@ -34,6 +34,23 @@
             <version>0.2.6</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.github.chhorz</groupId>
+            <artifactId>oas-generator-common</artifactId>
+            <version>0.2.6</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.github.chhorz</groupId>
+            <artifactId>javadoc-parser</artifactId>
+            <version>0.3.1</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.dataformat</groupId>
+            <artifactId>jackson-dataformat-yaml</artifactId>
+        </dependency>
+
 
         <dependency>
             <groupId>org.yaml</groupId>
